@@ -44,3 +44,12 @@ def index(request):
 
 def welcomepage(request):
     return render(request,'welcomepage.html')
+
+def news(request):
+    return render(request,'news.html')
+
+def Order(request):
+    return render(request,'Order.html')
+
+def billing(request):
+    return render(request,'billing.html')

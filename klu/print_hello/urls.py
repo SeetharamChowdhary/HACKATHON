@@ -9,6 +9,9 @@ urlpatterns = [
     path('sucess',views.sucess, name='sucess'),
     path('index',views.index, name='index'),
     path('welcomepage',views.welcomepage, name='welcomepage'),
+    path('news',views.news,name='news'),
+    path('Order',views.Order,name='Order'),
+    path('billing',views.billing,name='billing'),
 ]
 
 
