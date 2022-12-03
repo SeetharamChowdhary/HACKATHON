@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84c1c92a-eaa8-4798-bb1d-468fb54cb7bb" name="Changes" comment="sdp project">
-      <change afterPath="$PROJECT_DIR$/klu/template/billing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/klu/print_hello/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/klu/print_hello/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/klu/print_hello/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/klu/print_hello/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/klu/template/Order.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/Order.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/klu/template/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/klu/template/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/klu/template/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/klu/template/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +36,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670063324391</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sdp project">
+      <created>1670093703486</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670093703486</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
