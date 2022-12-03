@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84c1c92a-eaa8-4798-bb1d-468fb54cb7bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Django-prac2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/klu/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/klu/klu/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/klu/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/klu/klu/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/klu/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/print_hello/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/klu/print_hello/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/print_hello/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/klu/print_hello/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/template/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/template/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/template/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/template/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klu/template/newuserregister.html" beforeDir="false" afterPath="$PROJECT_DIR$/klu/template/newuserregister.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IONNBjWRRF6HkMRmpOJHbpUR7p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84c1c92a-eaa8-4798-bb1d-468fb54cb7bb" name="Changes" comment="" />
+      <created>1670048631463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670048631463</updated>
+    </task>
+    <servers />
+  </component>
+</project>
