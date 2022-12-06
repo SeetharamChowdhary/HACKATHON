@@ -53,3 +53,12 @@ def Order(request):
 
 def billing(request):
     return render(request,'billing.html')
+
+def profile(request):
+    return render(request,'profile.html')
+
+def Myorders(request):
+    return render(request,'Myorders.html')
+
+def news(request):
+    return render(request,'news.html')

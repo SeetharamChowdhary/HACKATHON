@@ -12,6 +12,9 @@ urlpatterns = [
     path('news',views.news,name='news'),
     path('Order',views.Order,name='Order'),
     path('billing',views.billing,name='billing'),
+    path('profile',views.profile,name='profile'),
+    path('Myorders',views.Myorders,name='Myorders'),
+    path('news',views.news,name='news'),
 ]
 
 
